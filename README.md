@@ -69,6 +69,4 @@ The raw and cleaned CSV files and the Power BI file (`.pbix`) are not included b
 - An arrest flag does not mean a conviction.
 - Patterns by time, district and location are descriptive and do not show causes or individual risk.
 
-## Author
 
-srujal4518
